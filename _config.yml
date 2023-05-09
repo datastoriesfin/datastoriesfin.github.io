@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stories from data
+title: Järvenpää asunnon ostokohteena
 email: datastories@outlook.com
-description:  testi
+description:  Tämä sivusto tarjoaa kattavan kuvauksen Järvenpään väkiluvun kehityksestä, ikärakenteesta sekä asuntomarkkinoista asunnon ostajan näkökulmasta. Puuttuuko jokin tärkeä kuvaaja? Mistä kaupungista haluaisit tietää lisää? Kaikki palaute/kehitysehdotukset sähköpostiosoitteseen: datastories@outlook.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
