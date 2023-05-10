@@ -51,7 +51,7 @@ Opiskelijoiden määrä eri postinumeroalueilla vuonna 2021.
 <embed 
        type="" 
        src="Järvenpää_postinumeroalueiden_väkiluvun_muutokset_kartta_opiskelijat.html"
-       width="1000"
+       width="700"
        height="500"
        >
 Opiskelijoiden määrä pysynyt suhteellisen vakiona Järvenpässä viimeisen kymmenen vuoden aikana. Vuonna 2020 nähdään koronapandemian aiheuttama pieni nousu opiskelijoiden määrässä, jolloin etäopiskelu mahdollisti koulun käymisen etänä. Suurin osa näistä noin 3000 opiskelijasta opiskelee lukiossa/ammattikoulussa ja asuu siis vielä vanhempiensa luona. 
@@ -67,7 +67,7 @@ Eläkeläisten määrä eri postinumeroalueilla vuonna 2021.
 <embed 
        type="" 
        src="Järvenpää_postinumeroalueiden_väkiluku_eläkeläiset_kartta_opiskelijat.html"
-       width="1000"
+       width="700"
        height="500"
        >
 
@@ -85,7 +85,7 @@ Lasten määrä eri postinumeroalueilla vuonna 2021.
 <embed 
        type="" 
        src="Järvenpää_postinumeroalueiden_väkiluku_lapset_kartta_opiskelijat.html"
-       width="1000"
+       width="700"
        height="500"
        >
  
@@ -98,7 +98,7 @@ Työttömien prosentuaalinen osuus postinumeroalueen asukkaista vuonna 2021.
 <embed 
        type="" 
       src="Järvenpää_postinumeroalueiden_työttömien_osuus_kartta.html"
-       width="1000"
+       width="700"
        height="500"
        >
 
@@ -119,7 +119,7 @@ Postinumeroaluiden yksiöiden neliövuokran keskimääräinen vuosittainen muuto
 <embed 
        type="" 
        src="Järvenpää_postinumeroalueiden_yksiöiden_vuokran_muutokset_kartta.html"
-       width="1000"
+       width="700"
        height="500"
        >
 
