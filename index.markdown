@@ -79,6 +79,8 @@ Eläkeläisten määrän kasvu Järvenpäässä on ollut voimakasta viime vuosin
 
 ![Järvenpään lasten asukasluku postinumeroalueittain](/Järvenpään lasten asukasluku postinumeroalueittain.png)
 
+Postinumeroalueista Loutti on lisännyt suosiotaan eniten lapsiperheiden keskuudessa. Suosiotaan eniten on menettänyt Haarajoki sekä Nummenkylä.
+
 Lasten määrä eri postinumeroalueilla vuonna 2021.
 <embed 
        type="" 
@@ -86,16 +88,38 @@ Lasten määrä eri postinumeroalueilla vuonna 2021.
        width="1000"
        height="500"
        >
-
-
-Postinumeroalueista Loutti on lisännyt suosiotaan eniten lapsiperheiden keskuudessa. Suosiotaan eniten on menettänyt Haarajoki sekä Nummnekylä. 
+ 
 
 # Vuokrataso
+Järvenpään yksiöiden neliövuokra on kasvanut vuosien 2015-2023 välillä keskimäärin 1.97% vuodessa. 
+
+![Järvenpään yksiöiden neliövuokra](/Järvenpään yksiöiden neliövuokra.png)
+
+Järvenpään postinumeroaluieden yksiöiden neliövuokran kehitys. Dataa ei saatavilla Nummenkylästä, Haarajoelta tai Kyrölästä.
+
+![Järvenpään yksiöiden neliövuokra postinumeroalueittain](/Järvenpään yksiöiden neliövuokra postinumeroalueittain.png)
+
+
+Postinumeroaluiden yksiöiden neliövuokran keskimääräinen vuosittainen muutos vuosina 2015-2023.
+
+<embed 
+       type="" 
+       src="Järvenpää_postinumeroalueiden_yksiöiden_vuokran_muutokset_kartta.html"
+       width="1000"
+       height="500"
+       >
+
+
+Loutin, ja Kinnarin postinumeroalueiden yksiöiden vuokrat ovat kasvaneet vuosittain keskimääräistä(1.97%) enemmän, kun taas Järvenpään keskuksen ja Jampan yksiöiden vuokratason kasvu on ollut keskimääräistäistä pienempää.
+
+
+
+Kaksioiden ja kolmioiden osalta tilastot päivitetään lähitulevaisuudessa!
 
 # Asuntojen hintataso
 
 
-# Palveluiden ja liikenneyhteyksien taso:
+# Palveluiden ja liikenneyhteyksien taso
 
 Ideointi
 
