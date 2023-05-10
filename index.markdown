@@ -39,7 +39,7 @@ Loutin, ja Järvenpään keskuksen postinumeroalueiden väkiluvut ovat kasvaneet
 
 Seuraavat kuvaajat esittävät opiskelijoiden, eläkeläisten sekä lapsien määrää eri postinumeroalueilla. 
 
-# Opiskelijat
+## Opiskelijat
 
 Opiskelijoita ovat 15 vuotta täyttäneet henkilöt, jotka opiskelevat päätoimisesti jossakin oppilaitoksessa eivätkä ole ansiotyössä tai työttömiä.
 
@@ -57,7 +57,7 @@ Opiskelijoiden määrä eri postinumeroalueilla vuonna 2021.
 Opiskelijoiden määrä pysynyt suhteellisen vakiona Järvenpässä viimeisen kymmenen vuoden aikana. Vuonna 2020 nähdään koronapandemian aiheuttama pieni nousu opiskelijoiden määrässä, jolloin etäopiskelu mahdollisti koulun käymisen etänä. Suurin osa näistä noin 3000 opiskelijasta opiskelee lukiossa/ammattikoulussa ja asuu siis vielä vanhempiensa luona. 
 
 
-# Eläkeläiset
+## Eläkeläiset
 
 ![Järvenpää eläkeläiset](/Järvenpää eläkeläiset.png)
 
@@ -73,7 +73,7 @@ Eläkeläisten määrä eri postinumeroalueilla vuonna 2021.
 
 Eläkeläisten määrän kasvu Järvenpäässä on ollut voimakasta viime vuosina. Asuinalueista ainoastaan Jamppa, Nummenkylä sekä Haarajoki eivät ole olleet eläkeläisten suosiossa viime vuosina. Järvenpäässä on hyvät palvelut eläkeläisille, kuten terveyskeskus, apteekkeja, kauppoja, ravintoloita ja kulttuuritapahtumia. Kaupungissa on myös useita seniorikeskuksia, jotka tarjoavat erilaisia palveluita ja aktiviteetteja eläkeläisille. 
 
-# Lapset
+## Lapset
 
 ![Järvenpään asukasluku lapset](/Järvenpään asukasluku lapset.png)
 
@@ -89,6 +89,19 @@ Lasten määrä eri postinumeroalueilla vuonna 2021.
        height="500"
        >
  
+# Työttömyys
+
+![Järvenpään työttömien osuus postinumeroalueittain](/Järvenpään työttömien osuus postinumeroalueittain.png)
+
+Työttömien prosentuaalinen osuus postinumeroalueen asukkaista vuonna 2021.
+
+<embed 
+       type="" 
+      src="Järvenpää_postinumeroalueiden_työttömien_osuus_kartta.html"
+       width="1000"
+       height="500"
+       >
+
 
 # Vuokrataso
 Järvenpään yksiöiden neliövuokra on kasvanut vuosien 2015-2023 välillä keskimäärin 1.97% vuodessa. 
@@ -118,8 +131,22 @@ Kaksioiden ja kolmioiden osalta tilastot päivitetään lähitulevaisuudessa!
 
 # Asuntojen hintataso
 
+Tilastoissa käytetään vanhojen osake-auntojen hintatietoja. Vanhalla asunnolla tarkoitetaan asuntoa, joka on valmistunut aiemmin kuin tilastovuotta edeltävänä vuonna.
+
+![Järvenpään yksiöiden neliöhinta](/Järvenpään yksiöiden neliöhinta.png)
+
+Järvenpään yksiöiden neliöhinta postinumeroalueittain. Kinnari-mikonkorven ja Jampan tilastoja ei voida pitää luotettavina datan vähäisyyden vuoksi. 
+
+![Järvenpään yksiöiden neliöhinta postinumeroalueittain](/Järvenpään yksiöiden neliöhinta postinumeroalueittain.png)
+
+![Järvenpään myytyjen yksiöiden määrä postinumeroalueittain](/Järvenpään myytyjen yksiöiden määrä postinumeroalueittain.png)
+
+
+
+Kaksioiden ja kolmioiden osalta tilastot päivitetään lähitulevaisuudessa!
 
 # Palveluiden ja liikenneyhteyksien taso
+
 
 Ideointi
 
