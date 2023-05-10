@@ -136,12 +136,11 @@ Tilastoissa käytetään vanhojen osake-auntojen hintatietoja. Vanhalla asunnoll
 
 ![Järvenpään yksiöiden neliöhinta](/Järvenpään yksiöiden neliöhinta.png)
 
-Järvenpään yksiöiden neliöhinta postinumeroalueittain. Kinnari-mikonkorven ja Jampan tilastoja ei voida pitää luotettavina datan vähäisyyden vuoksi. 
+Järvenpään yksiöiden neliöhinta postinumeroalueittain. Kinnari-mikonkorven ja Jampan tilastoja ei voida pitää luotettavina datan vähäisyyden vuoksi.
 
 ![Järvenpään yksiöiden neliöhinta postinumeroalueittain](/Järvenpään yksiöiden neliöhinta postinumeroalueittain.png)
 
 ![Järvenpään myytyjen yksiöiden määrä postinumeroalueittain](/Järvenpään myytyjen yksiöiden määrä postinumeroalueittain.png)
-
 
 
 Kaksioiden ja kolmioiden osalta tilastot päivitetään lähitulevaisuudessa!
