@@ -143,6 +143,7 @@ Järvenpään yksiöiden neliöhinta postinumeroalueittain. Kinnari-mikonkorven 
 ![Järvenpään myytyjen yksiöiden määrä postinumeroalueittain](/Järvenpään myytyjen yksiöiden määrä postinumeroalueittain.png)
 
 
+
 Kaksioiden ja kolmioiden osalta tilastot päivitetään lähitulevaisuudessa!
 
 
